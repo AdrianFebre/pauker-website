@@ -1,0 +1,42 @@
+.container {
+    width: 900px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.nav .container {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border-bottom: 1px solid #ddd;
+}
+
+.nav a {
+  color: #5a5a5a;
+  font-size: 20px;
+  font-weight: bold;
+  padding: 25px 10px;
+}
+
+.nav li {
+  display: inline;
+}
+
+body {
+  padding-bottom: 70px;
+}
+
+.press {
+  font-family: 'Raleway', sans-serif;
+}
+
+.press h2 {
+  text-indent: 20px;
+}
+
+.press {
+  padding-bottom: 150px;
+}
+
+
+
+
+
