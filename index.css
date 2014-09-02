@@ -1,5 +1,5 @@
 .container {
-    width: 800px;
+    width: 900px;
     font-family: 'Raleway', sans-serif;
 }
 
@@ -63,7 +63,7 @@
 
 .slide-copy p {
   color: #959595;
-  font-family: Georgia, "Times New Roman", serif;
+  font-family: 'Raleway', sans-serif;
   font-size: 1.15em;
   line-height: 1.75em;
   margin-bottom: 15px;
@@ -72,25 +72,26 @@
 
 .slide-copy li {
   color: #363636; 
-  font-family: Georgia, "Times New Roman", serif;
+  font-family: 'Raleway', sans-serif;
   font-size: 1.15em;
   line-height: 1.75em;
-  list-style-type: disc;
+  list-style-type: none;
 }
 
 .slide-copy .bullets a {
   color: #6fc5e0;
-  font-family: Georgia, "Times New Roman", serif;
+  font-family: 'Raleway', sans-serif;
   font-size: 1.00em;
   line-height: 1.50em;
-  text-indent: 25px;
+  text-indent: 70px;
 }
 
-.slide-copy a {
+.slide-copy .check a {
   display: block;
   color: #6fc5e0;
   font-weight: 400;  
   font-size: 20px;
+  padding-top: 50px;
 }
 
 .slide-img {
